@@ -1,8 +1,10 @@
 
-def git_opeation():
+def hello_world():
 
-    print("I am adding example.py file to the remote repository.")
+    print("Hello, GitHub!")
 
-git_opeation()
+
+
+hello_world()
 
 
